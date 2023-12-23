@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # toDo-app-by-sqflite
-![Screenshot_20231223_100716](https://github.com/muhammad-talat1610/toDo-app-by-sqflite/assets/128619762/e3d9bed5-fe00-4ac1-8c43-7536e3bcbeba)
+![Screenshot_20231223_100716](https://github.com/muhammad-talat1610/toDo-app-by-sqflite/assets/128619762/e3d9bed5-fe00-4ac1-8c43-7536e3bcbeba ,width:400) 
 ![Screenshot_20231223_112010](https://github.com/muhammad-talat1610/toDo-app-by-sqflite/assets/128619762/6fd5f453-9812-42f3-9155-49daa4ad0cc3)
 ![Screenshot_20231223_112022](https://github.com/muhammad-talat1610/toDo-app-by-sqflite/assets/128619762/8b361d4b-700a-4584-8d6c-7173d3307229)
 ![Screenshot_20231223_114300](https://github.com/muhammad-talat1610/toDo-app-by-sqflite/assets/128619762/55f3b119-4e7d-4c37-9843-9e54abb6b5c4)
